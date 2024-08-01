@@ -1,6 +1,6 @@
 # Overall
 _____
-### Timezone you were trading in: Pacific
+### Timezone you were trading in: TIMEZONE
 _____
 ### Daily Habits:
 - - [ ] Stay and patient and wait for setups
@@ -20,9 +20,11 @@ _____
   - - [ ] Did you follow rules for moving stops? 21-minute rule. Auto-breakeven after +0.6R
   - - [ ] Did you follow this rule: when doing the trade setup, if the hinge point was above/below the 10/20/30/40/60/120 or 4/6/8/12/16/24/48 stop then don't take the trade?
     - Set the stop at 60 points when it should have been 120 points based on the chart.
-  - - [ ] Did you do at least 1:1.2 risk to reward ratio?
+  - - [ ] Did you do at least 1:1.2 risk to reward ratio?  
 - Extra notes/thoughts:
-  - TEMPLATE  
+  - TEMPLATE
+- Chart:
+  - ![Chart](image_url)
 
 
 # Globex (5:00 PM to 8:30 AM Central)
@@ -35,3 +37,5 @@ _____
   - - [ ] Did you do at least 1:1.2 risk to reward ratio?
 - Extra notes/thoughts:
   - TEMPLATE
+- Chart:
+  - ![Chart](image_url)

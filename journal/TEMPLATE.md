@@ -27,7 +27,7 @@ _____
 - Extra notes/thoughts:
   - TEMPLATE
 - Chart:
-  - ![Chart](image_url)
+  - ![Chart](charts/Screen%20Shot%202024-06-31%20at%2018.49.19.png?raw=true)
 
 
 # Globex (5:00 PM to 8:30 AM Central)
@@ -41,4 +41,4 @@ _____
 - Extra notes/thoughts:
   - TEMPLATE
 - Chart:
-  - ![Chart](image_url)
+  - ![Chart](charts/Screen%20Shot%202024-06-31%20at%2018.49.19.png?raw=true)

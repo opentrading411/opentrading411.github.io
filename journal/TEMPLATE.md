@@ -1,3 +1,5 @@
+# YYYY-MM-DD
+
 # Overall
 _____
 ### Timezone you were trading in: TIMEZONE

@@ -22,7 +22,6 @@ _____
   - - [ ] Did you only risk max 1R?
   - - [ ] Did you follow rules for moving stops? 21-minute rule. Auto-breakeven after +0.6R
   - - [ ] Did you follow this rule: when doing the trade setup, if the hinge point was above/below the 10/20/30/40/60/120 or 4/6/8/12/16/24/48 stop then don't take the trade?
-    - Set the stop at 60 points when it should have been 120 points based on the chart.
   - - [ ] Did you do at least 1:1.2 risk to reward ratio?  
 - Extra notes/thoughts:
   - TEMPLATE
@@ -36,7 +35,6 @@ _____
   - - [ ] Did you only risk max 1R?
   - - [ ] Did you follow rules for moving stops? 21-minute rule. Auto-breakeven after +0.6R
   - - [ ] Did you follow this rule: when doing the trade setup, if the hinge point was above/below the 10/20/30/40/60/120 or 4/6/8/12/16/24/48 stop then don't take the trade?
-    - Set the stop at 60 points when it should have been 120 points based on the chart.
   - - [ ] Did you do at least 1:1.2 risk to reward ratio?
 - Extra notes/thoughts:
   - TEMPLATE

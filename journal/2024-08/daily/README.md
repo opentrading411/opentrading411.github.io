@@ -1,5 +1,5 @@
 # 2024-08
-## Journal Entries for the month of August 2024
+## Daily Journal Entries for the month of August 2024
 1. [2024-08-01](./2024-08-01)
 2. [2024-08-02](./2024-08-02)
 3. [2024-08-04](./2024-08-04)

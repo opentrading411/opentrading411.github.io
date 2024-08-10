@@ -8,6 +8,7 @@ _____
 - - [ ] Stay and patient and wait for setups
 - - [ ] Don't look to execute trades out of boredom. There is nothing wrong with taking ZERO trades in a day
 - - [ ] Did you hit max loss or max profit (max gain) and stop trading?
+- - [ ] Did you trade for MAX 4 hours after you started trading?
 - - [ ] Did you cancel all orders once you were done for the session or going to sleep
 - - [ ] Did you not take any trades during the first and last 30 min of dayside session?
 _____ 
